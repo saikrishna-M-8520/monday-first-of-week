@@ -1,4 +1,4 @@
 This is the first line of the sample file
 This is the second line of the sample file
 This is the third line of the sample file
-Next line
+This is next line to third of sample file 
